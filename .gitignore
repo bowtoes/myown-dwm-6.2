@@ -1,6 +1,6 @@
 *.[ao]
 *.orig
 *.rej
-TODO
-LEGACY
-FAQ
+TODO*
+LEGACY*
+FAQ*
